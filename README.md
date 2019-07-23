@@ -15,7 +15,7 @@ Welcome to the Apache Spark Workshop! This repository contains the material for 
 
 ### Timetable
 
-- Session 1: Introduction [presentation, exercises]
+- Session 1: Introduction [[presentation](https://docs.google.com/presentation/d/17R3zQfdHZF3cypEYxugqTeafRYsbhkmCjQwhaph_mJo/edit?usp=sharing), [exercises](notebooks/session1.ipynb)]
 	- I will review the landscape of cluster computing by addressing some of the most pressing questions today: what is cluster computing? What does it mean working in a distributed environment? What are the data and computing challenges that science is facing nowadays, and how we can tackle those? I will also introduce Apache Spark, a cluster computing framework for analysing large datasets that proved successful in the industry. I will specifically focus on the Apache Spark SQL module and DataFrames API, and we will start practicing through a series of simple exercises.
 - Session 2: Apache Spark for science [presentation, exercises]
 	- In this session, we will use the Apache Spark Python API (PySpark) and learn on concrete examples how to interface and play with popular scientific libraries (Numpy, Pandas, ...).
