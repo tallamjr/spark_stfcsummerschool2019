@@ -1,6 +1,6 @@
 # STFC Summer School 2019: Apache Spark
 
-Welcome to the Apache Spark Workshop! This repository contains the material for the the STFC Summer School 2019. The session will take place on Thursday 25th July. 
+Welcome to the Apache Spark Workshop! This repository contains the material for the STFC Summer School 2019. The session will take place on Thursday 25th July. 
 
 ### Goals of the workshop
 
